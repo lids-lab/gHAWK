@@ -1,0 +1,28 @@
+2025-07-26 11:41:05 [INFO] Starting experiment
+2025-07-26 11:41:05 [INFO] Starting experiment
+2025-07-26 11:41:05 [INFO] Starting experiment
+2025-07-26 11:41:05 [INFO] Starting experiment
+2025-07-26 11:41:05 [INFO] Starting experiment
+2025-07-26 11:41:05 [INFO] Using device: cuda:2
+2025-07-26 11:41:05 [INFO] Using device: cuda:2
+2025-07-26 11:41:05 [INFO] Using device: cuda:2
+2025-07-26 11:41:05 [INFO] Using device: cuda:2
+2025-07-26 11:41:05 [INFO] Using device: cuda:2
+2025-07-26 11:41:05 [INFO] Loading train data from /home/hxs7303/codes/wikikg-v2/wikikg-v2/split/time/train.pt
+2025-07-26 11:41:05 [INFO] Loading train data from /home/hxs7303/codes/wikikg-v2/wikikg-v2/split/time/train.pt
+2025-07-26 11:41:05 [INFO] Loading train data from /home/hxs7303/codes/wikikg-v2/wikikg-v2/split/time/train.pt
+2025-07-26 11:41:05 [INFO] Loading train data from /home/hxs7303/codes/wikikg-v2/wikikg-v2/split/time/train.pt
+2025-07-26 11:41:05 [INFO] Loading train data from /home/hxs7303/codes/wikikg-v2/wikikg-v2/split/time/train.pt
+2025-07-26 11:41:05 [INFO] Loading train data from /home/hxs7303/codes/wikikg-v2/wikikg-v2/split/time/train.pt
+2025-07-26 11:41:06 [INFO] Train triples: 16109182, num_nodes=2500604
+2025-07-26 11:41:06 [INFO] Train triples: 16109182, num_nodes=2500604
+2025-07-26 11:41:06 [INFO] Train triples: 16109182, num_nodes=2500604
+2025-07-26 11:41:06 [INFO] Train triples: 16109182, num_nodes=2500604
+2025-07-26 11:41:06 [INFO] Train triples: 16109182, num_nodes=2500604
+2025-07-26 11:41:06 [INFO] Train triples: 16109182, num_nodes=2500604
+2025-07-26 11:41:06 [INFO] Global edge index shape: torch.Size([2, 32218364])
+2025-07-26 11:41:06 [INFO] Global edge index shape: torch.Size([2, 32218364])
+2025-07-26 11:41:06 [INFO] Global edge index shape: torch.Size([2, 32218364])
+2025-07-26 11:41:06 [INFO] Global edge index shape: torch.Size([2, 32218364])
+2025-07-26 11:41:06 [INFO] Global edge index shape: torch.Size([2, 32218364])
+2025-07-26 11:41:06 [INFO] Global edge index shape: torch.Size([2, 32218364])

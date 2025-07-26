@@ -1,0 +1,5 @@
+2025-07-26 11:44:24 [INFO] __main__: Starting experiment
+2025-07-26 11:44:24 [INFO] training: Using device: cuda:2
+2025-07-26 11:44:24 [INFO] dataloader: Loading train data from /home/hxs7303/codes/wikikg-v2/wikikg-v2/split/time/train.pt
+2025-07-26 11:44:25 [INFO] dataloader: Train triples: 16109182, num_nodes=2500604
+2025-07-26 11:44:25 [INFO] dataloader: Global edge index shape: torch.Size([2, 32218364])
