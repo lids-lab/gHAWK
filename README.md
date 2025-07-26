@@ -53,11 +53,11 @@ All of our node‐classification experiments build on the official OGB baseline 
    From ROOT/ogbn-mag240-gnns/, just invoke the desired script. For example:
    ```bash
    python RGCN.py \
-  --data_dir ROOT/mag240m \
-  --feature_type roberta+bloom+transe \
-  --model rgraphsage \
-  --sizes 25-15 \
-  --device 0,1
+   --data_dir ROOT/mag240m \
+    --feature_type roberta+bloom+transe \
+    --model rgraphsage \
+    --sizes 25-15 \
+    --device 0,1
    ```
 Or you can hard‐code defaults at the top of each *.py (e.g., FEATURE_TYPE = "bloom").
 3. **Multi‐GPU support**  
