@@ -1,7 +1,7 @@
 # gHAWK
 gHAWK: Local and Global Neighborhood Aggregation for Representation Learning on Knowledge Graphs
 
-## 🚀 Environment
+## Environment
 
 - **Python** ≥ 3.8  
 - **PyTorch** ≥ 1.12  
