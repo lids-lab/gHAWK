@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 preprocessing_ogbn_mag.py — Generate Bloom filters and TransE embeddings for OGBN-MAG
 """
